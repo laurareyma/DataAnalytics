@@ -1,19 +1,4 @@
-# Tipos y estructuras de datos
-## Exploración de datos
-
-* Este es un espacio donde veremos cómo preparar los datos para el análisis incluyendo cómo identificar, cómo se generan y recopilan los datos, y cómo explorar diferentes formatos, tipos y estructuras de datos.
-
-* También aprenderemos a analizar los datos en busca de sesgos y credibilidad, y a explorar lo que significa tener datos limpios.
-
-* Además, aprenderemos sobre las bases de datos y cómo se utilizan en el analisis de datos. I
-
-* Aprenderemos los fundamentos de la organización de datos y el proceso de protección de los datos.
-
----
-
-### NOTAS:
-
-## RECOPILACIÓN DATOS
+# RECOPILACIÓN DATOS
 
 Es importante comprender de dónde provienen los datos que estamos analizando y cómo se recopilaron. Esto puede ser útil para comprender la calidad de los datos y las posibles limitaciones que puedan tener.
 
