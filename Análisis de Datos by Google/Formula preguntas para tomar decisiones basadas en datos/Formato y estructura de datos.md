@@ -63,9 +63,9 @@ Forma en que se organizan los datos para que sean útiles y fáciles de entender
 
    * **Proporcionan más libertad de análisis:** Los datos estructurados proporcionan más libertad de análisis porque se pueden utilizar para responder a una amplia gama de preguntas.
 
-   * Fáciles de analizar: Los datos estructurados son fáciles de analizar porque están organizados y tienen tipos de datos definidos.
+   * **Fáciles de analizar:** Los datos estructurados son fáciles de analizar porque están organizados y tienen tipos de datos definidos.
 
-   * Almacenados en lagos de datos, almacenes de datos y bases de datos NoSQL: Los datos estructurados suelen almacenarse en lagos de datos, almacenes de datos y bases de datos NoSQL.
+   * **Almacenados en lagos de datos, almacenes de datos y bases de datos NoSQL:** Los datos estructurados suelen almacenarse en lagos de datos, almacenes de datos y bases de datos NoSQL.
 
 * **Datos no estructurados:** Los datos no estructurados no se pueden organizar de una manera fácil de identificar. Los ejemplos de datos no estructurados incluyen correos electrónicos, publicaciones en redes sociales e imágenes.
 
